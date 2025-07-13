@@ -1,53 +1,41 @@
-<img src="https://github.com/SEU_USUARIO_AQUI/SEU_REPOSITORIO/raw/main/Imagem%20do%20WhatsApp%20de%202024-11-12%20%C3%A0(s)%2012.05.54_3f02059f.jpg" alt="Foto de Perfil" width="200" style="border-radius: 50%;" />
-
-# 👋 Olá, eu sou Juliano Max!
-
-Sou um profissional apaixonado por tecnologia, inovação e desenvolvimento pessoal. Atuo com informática, desenvolvimento humano e digital, focado em ajudar pessoas e negócios a crescerem com propósito e performance.
-
-## 🚀 Minhas Especialidades:
-- Desenvolvimento pessoal e espiritual
-- Vendas digitais (PLR, Hotmart)
-- Mentoria para liberdade financeira
-- Automação e estratégias de marketing
-- Criação de conteúdos que transformam
-
-## 💡 Missão:
-Ajudar pessoas a **transformarem suas vidas através do digital**, despertando seu potencial máximo em direção à liberdade financeira e pessoal.
-
+# 📊 Análise Comercial — Power BI (Português)
+Dashboard interativo criado com **Microsoft Power BI**, focado na **análise comercial** de vendas no setor de brinquedos em Portugal.  
+Este projeto foi desenvolvido como parte de formação prática e demonstra competências em visualização de dados, análise de KPIs e storytelling com dados.
 ---
-
-## 🌐 Conecte-se comigo:
-
-- 🔗 [Instagram](https://www.instagram.com/seuusuario)  
-- 🔗 [Facebook](https://www.facebook.com/seuusuario)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/seuusuario)  
-- 📲 WhatsApp: [+351 913033577](https://wa.me/351913033577)
-
+## ✨ Visão Geral
+O dashboard oferece uma visão completa das vendas entre 2021 e 2023, com a possibilidade de filtrar por:
+- Loja
+- Tipo de venda (Online / Presencial)
+- Produto
+- Categoria
+- Fornecedor
+- Região
 ---
-
-## 📞 Precisa de ajuda ou quer começar agora?
-
-### <a href="https://wa.me/351913033577" target="_blank"><img src="https://img.shields.io/badge/👨‍💻%20Contrate%20Agora-%20-%2300e676?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-
+## 🔷 KPIs Apresentados
+✔️ **Faturamento Total (€):** Receita bruta total do período analisado.  
+✔️ **Margem (%):** Margem operacional média por período/categoria.  
+✔️ **Quantidade Vendida:** Total de unidades vendidas por categoria e produto.  
+✔️ **Top Fornecedores:** Ranking dos fornecedores com maior participação.  
+✔️ **Evolução Temporal:** Gráfico de metas versus realizado ao longo dos meses.  
+✔️ **Distribuição Regional:** Vendas por distrito em Portugal.  
 ---
-
-## 📈 Objetivos Atuais
-
-- 🔧 Construção de autoridade digital
-- ✍️ Produção de conteúdos em nichos de alto valor
-- 💼 Renda passiva através de produtos digitais
-- 🧠 Desenvolvimento contínuo em IA, espiritualidade e marketing
-
+## 🌟 Insights Destacados
+📌 Principais categorias: Jogos, Bonecas e Blocos de Montar concentram mais de 80% das vendas.  
+📌 Vendas online apresentam crescimento constante versus presencial.  
+📌 Top 3 fornecedores respondem por mais de 50% do faturamento total.  
+📌 Metas trimestrais alcançadas em 2023 com margem média superior a 20%.
 ---
-
-## 📘 Projetos em andamento:
-
-- **eBook de espiritualidade e rituais com base no Ifá**
-- **Mentoria para iniciantes no digital**
-- **Estratégias de PLR com retorno rápido**
-
+## 📄 Arquivos Disponíveis
+- 📁 `Analise-Comercial.pbix` — Arquivo editável do Power BI.
+- 📄 `Analise-Comercial.pdf` — Versão estática para visualização rápida.
 ---
-
-> **“Minha missão é te ajudar a desbloquear sua abundância, viver com propósito e conquistar liberdade.”**  
-> _– Juli_
-
+## 🌐 Link Interativo
+[👉 Ver no Power BI Service](COLE_AQUI_O_LINK_QUANDO_PUBLICAR)
+---
+## 📌 Sobre este Projeto
+Este trabalho demonstra minha capacidade de:
+- Limpar, transformar e modelar dados.
+- Criar relatórios claros e orientados para decisões.
+- Produzir análises com foco no negócio e na experiência do usuário.
+---
+Se quiser ver mais dashboards ou falar sobre como aplicar este tipo de análise no seu negócio, entre em contato ou veja meu portfólio completo no GitHub.
